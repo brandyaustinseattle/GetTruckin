@@ -22,7 +22,8 @@ If using zip file...
 2. Open terminal and navigate to the folder where the files were saved
 
 If accessing via Github...
-1. Navigate to Github
+1. Navigate to Github repo
+[Get Truckin' repo](https://github.com/brandyaustinseattle/GetTruckin)
 2. Clone repository to a local folder
 
 After completing one of the options above...
